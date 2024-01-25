@@ -10,13 +10,22 @@ Welcome to my Excel Projects repository! 🚀 Here, you'll find a collection of 
 
 ## Project Highlights:
 
-- Bike Sales Analysis: 
+- Bike Sales Analysis: Shows analysis and visualization of bike sales based on avg. 
+                       income per purchase, purchase by age group and purchase by 
+                       Commute Distance with filters like Maritial Status, Education 
+                       and region of buyer.
   
-- Chocolate Sales Analysis: 
+- Chocolate Sales Analysis: Shows analysis and visualization of chocolate sales in 
+                            six countries with Profit% and MoM%. It also includes 
+                            Different Types of Chocolate Category and KPIs.
 
-- Ecommerce Sales Analysis:
+- Ecommerce Sales Analysis: Shows Sales, Profit, Quantity, Orders, Profit Margin 
+                            along with YoY Growth in form of KPI. Also shows 
+                            different types of visualizations with filters.
 
-- World Population Analysis:
+- World Population Analysis: Shows World Population Analysis Based on 2023 Data.It 
+                             includes population of each country with map. Also 
+                             contains Growth Rate and Region Wise Population.
 
 ## How to Use:
 
