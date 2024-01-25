@@ -10,9 +10,13 @@ Welcome to my Excel Projects repository! 🚀 Here, you'll find a collection of 
 
 ## Project Highlights:
 
-- [Project Name 1]: A brief description of the first project.
+- Bike Sales Analysis: 
   
-- [Project Name 2]: Explore the second project's objectives and outcomes.
+- Chocolate Sales Analysis: 
+
+- Ecommerce Sales Analysis:
+
+- World Population Analysis:
 
 ## How to Use:
 
