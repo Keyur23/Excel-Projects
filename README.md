@@ -27,6 +27,10 @@ Welcome to my Excel Projects repository! 🚀 Here, you'll find a collection of 
                              includes population of each country with map. Also 
                              contains Growth Rate and Region Wise Population.
 
+- GYM Members Excercise Analysis: Shows GYM Members Analysis Based on Member's
+                                  Age,Gender,Excercise Type, BMI and the total
+                                  water intake by each type of excercise.
+
 ## How to Use:
 
 Feel free to explore the projects, download the Excel files, and provide feedback. If you have questions or suggestions, don't hesitate to open an issue or reach out.
