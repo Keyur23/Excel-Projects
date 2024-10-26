@@ -31,6 +31,12 @@ Welcome to my Excel Projects repository! 🚀 Here, you'll find a collection of 
                                   Age,Gender,Excercise Type, BMI and the total
                                   water intake by each type of excercise.
 
+- Student Performance Factors Analysis: Shows Student Performance Analysis Based on parential involvement,
+                                  effect of sleep and physical activity on score,school Type, Teacher Quality and
+                                  Family Income.
+  
+
+
 ## How to Use:
 
 Feel free to explore the projects, download the Excel files, and provide feedback. If you have questions or suggestions, don't hesitate to open an issue or reach out.
